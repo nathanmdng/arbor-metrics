@@ -1,0 +1,16 @@
+[
+   {
+      "patientid":1234,
+      "sex":"male",
+      "name":"John Smith",
+      "state":"MI",
+      "age":57
+   },
+   {
+      "patientid":1235,
+      "sex":"female",
+      "name":"Jane Smith",
+      "state":"OH",
+      "age":47
+   }
+]
